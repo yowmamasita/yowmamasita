@@ -7,3 +7,4 @@
 - ⚡ Fun fact: I don't eat veggies
 
 ## [I'm hosting my blog in GitHub Gists](https://gist.github.com/yowmamasita)
+I recently wrote about [Hello to yet another blog](https://gist.github.com/be82fae5206fa819096c69242497ab50)
