@@ -5,5 +5,4 @@ After I realized that some people are using GH gist to publish ad hoc posts, I i
 1. GitHub cli - I've only recently known this but this is quite a powerful utility.
 2. [A Profile Readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile-managing-your-profile-readme)
 
-Actually, there's a third part and that's the wrapper script. This [blog script]() is only compatible with zsh (and maybe just macOS) right now.
-
+Actually, there's a third part and that's the wrapper script. This [blog script](./blog.plugin.zsh) is only compatible with zsh (and maybe just macOS) right now.
