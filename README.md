@@ -1,1 +1,2 @@
-[Blog](https://ben.com.de/)
+- [i blog](https://ben.com.de/)
+- [monitor my internet speed](https://mastodon.social/@12345)
