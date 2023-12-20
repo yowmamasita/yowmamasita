@@ -1,4 +1,4 @@
-I...
+[My Github stats](https://github-readme-stats.vercel.app/api?username=yowmamasita&theme=github_dark&show_icons=true)
 
 - [blog](https://ben.com.de/)
 - [monitor my internet speed](https://mastodon.social/@12345)
