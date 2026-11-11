@@ -1,5 +1,3 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yowmamasita&theme=github_dark&show_icons=true)
-
 Nowadays, I am...
 
 - [streaming anything in every Plex app](https://rex.debridmediamanager.com/)
