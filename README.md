@@ -2,12 +2,13 @@
 
 Nowadays, I am...
 
-- [building rex](https://rex.debridmediamanager.com/), a Plex compatible media server that owns no files, now also [on Android and Google TV](https://github.com/debridmediamanager/rex-android)
-- [putting every debrid account and Usenet in one folder](https://zurg.debridmediamanager.com/)
+- [streaming anything in every Plex app](https://rex.debridmediamanager.com/)
+- [watching it on my Google TV too](https://github.com/debridmediamanager/rex-android)
+- [keeping all my debrid accounts in one folder](https://zurg.debridmediamanager.com/)
 - [watching movies in dolby vision](https://debridmediamanager.com/)
-- [writing my own terminal for coding agents](https://helium-terminal.bensarmiento.com), native Swift on libghostty
-- [squeezing Bitwarden into a 2,000-line browser extension](https://github.com/yowmamasita/bw-lite), passkeys included
-- [watching live TV in Stremio without running a server](https://github.com/yowmamasita/usa-tv-next)
-- [trying to get a driver's license in Germany](https://github.com/yowmamasita/driving-theory), with every TÜV and DEKRA question in English
-- [making interactive lessons for my son's Klasse 5](https://github.com/yowmamasita/klasse5)
+- [babysitting a bunch of coding agents](https://helium-terminal.bensarmiento.com)
+- [filling in my passwords with something tiny](https://github.com/yowmamasita/bw-lite)
+- [watching live TV](https://github.com/yowmamasita/usa-tv-next)
+- [trying to get a driver's license in Germany](https://github.com/yowmamasita/driving-theory)
+- [helping my son with Klasse 5](https://github.com/yowmamasita/klasse5)
 - [playing padel](https://apps.apple.com/de/app/padel-scorer/id6449323433?l=en)
